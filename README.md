@@ -1,2 +1,2 @@
 # This-or-That
-Base repository for Student Guide 3.5C
+Copy in Cold or Allergy code. Base repository for Student Guide 3.5C
